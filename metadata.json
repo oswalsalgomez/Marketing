@@ -1,0 +1,6 @@
+{
+  "name": "DemandLab AI - Guía y Simulador de Estimación de Demanda",
+  "description": "Guía metodológica interactiva y plataforma de estimación de demanda, modelación de curvas económicas, optimización de márgenes y simulación de políticas de precios para Google AI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
